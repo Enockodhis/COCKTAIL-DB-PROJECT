@@ -1,5 +1,5 @@
 # COCKTAIL-DB-PROJECT
-A "Cocktail DB" (Cocktail Database) is a structured collection of information about various cocktails. It typically includes detailed information about different cocktail recipes, ingredients, preparation methods, and other related data.The main purposes of a Cocktail DB are to catalog, organize, and provide easy access to cocktail recipes and related information for enthusiasts, bartenders, and anyone interested in mixology. The API used for this project was obtained from https://www.thecocktaildb.com/api.php and this is a hyperlink to this project :
+A "Cocktail DB" (Cocktail Database) is a structured collection of information about various cocktails. It typically includes detailed information about different cocktail recipes, ingredients, preparation methods, and other related data.The main purposes of a Cocktail DB are to catalog, organize, and provide easy access to cocktail recipes and related information for enthusiasts, bartenders, and anyone interested in mixology. The API used for this project was obtained from https://www.thecocktaildb.com/api.php and this is a hyperlink to this project : https://cocktaildbapproject.netlify.app/
 
 ![image](https://github.com/Enockodhis/COCKTAIL-DB-PROJECT/assets/107674019/5ca2d356-3aa7-4b2a-93e4-3f53ff6adf71)
 
